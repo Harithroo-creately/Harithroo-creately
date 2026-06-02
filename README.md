@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harithroo
+👋 Hi, I’m Harithroo
 
 This GitHub account was primarily used for my work at Creately.
 
